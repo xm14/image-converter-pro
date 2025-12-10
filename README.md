@@ -12,7 +12,7 @@ A modern, privacy-focused web application for converting images to JPG format. A
 
 ## How to Use
 
-1. Visit [ImageConverter PRO](https://your-username.github.io/image-converter-pro/)
+1. Visit [ImageConverter PRO](https://xm14.github.io/image-converter-pro/)
 2. Drag & drop an image or click to browse
 3. Click "Convert to JPG"
 4. Download your converted image
